@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/pedrolsrt/pedrolsrt/blob/d5d6175f5265c34c32f38a40b2cd0ce9580fd02a/img/f3086411d4911da2a17e506ec2ea81d5.jpg"/>
+<img align="center" alt="Header" src="https://github.com/TiagoBoavAmaral/TiagoBoavAmaral/blob/main/img/tiagoheader%20(1).jpg"/>
 </div>
 
 -----
