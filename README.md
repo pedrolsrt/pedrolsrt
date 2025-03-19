@@ -59,7 +59,7 @@
 <a href="https://www.last.fm/pt/user/pedrotwent" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=pedrotwent&width=400"/></a>
 </div>
 <div>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=niqmngb5p6xbqig6sktvdoooli&count=10"/>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31niqmngb5p6xbqig6sktvdoooli&count=10"/>
 </div>
 </div>
 
