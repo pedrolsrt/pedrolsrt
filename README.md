@@ -1,3 +1,6 @@
+Claro — versão final, agora com **20 anos**, pronta para copiar e colar no `README.md` do GitHub:
+
+```html
 -----
 
 <div>
@@ -30,7 +33,7 @@
 </div>
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Pedro Lucas</code>, moro em Belo Horizonte - MG e sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Atualmente estou no 5º período do curso, estudando e aprimorando meus conhecimentos em programação e desenvolvimento de software.</i> :man_technologist:<br />
+<i><b>Olá</b> :wave:, sou o <code>Pedro Lucas</code>, tenho 20 anos, moro em Belo Horizonte - MG e sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Atualmente estou no 5º período do curso, estudando e aprimorando meus conhecimentos em programação e desenvolvimento de software.</i> :man_technologist:<br />
 </div>
 
 -----
@@ -39,7 +42,6 @@
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrolsrt&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrolsrt&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrolsrt&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrolsrt&theme=github_dark"/>
 </div>
@@ -55,7 +57,6 @@
 </div>
 
 <div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <a href="https://www.last.fm/pt/user/pedrotwent" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=pedrotwent&width=400"/></a>
 </div>
 
@@ -67,3 +68,4 @@
 -----
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=pedrolsrt"/>
+```
