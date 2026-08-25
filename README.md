@@ -1,4 +1,4 @@
-Claro — versão final, agora com **20 anos**, pronta para copiar e colar no `README.md` do GitHub:
+É só copiar tudo abaixo e colar no seu `README.md`:
 
 ```html
 -----
