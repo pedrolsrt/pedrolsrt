@@ -1,6 +1,3 @@
-É só copiar tudo abaixo e colar no seu `README.md`:
-
-```html
 -----
 
 <div>
@@ -68,4 +65,3 @@
 -----
 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=pedrolsrt"/>
-```
